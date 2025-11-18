@@ -1,1 +1,0 @@
-import{_ as o}from"./telegram-V0x15lHJ.js";import{B as e,l as n,h as t}from"./index-DbbwcS8I.js";import"./VImg-CT67WfQl.js";import"./dimensions-5D4Bb3gD.js";const i=e({__name:"fallen",setup(r){return(_,p)=>(t(),n(o))}});export{i as default};

@@ -1,0 +1,1 @@
+import{_ as e,V as o}from"./VImg-Bgq6lCDv.js";import{l as r,h as t}from"./index-scA6enA4.js";const _="/pietaMEDS-site/media/telegram.png",c={};function n(s,a){return t(),r(o,{src:_})}const i=e(c,[["render",n]]);export{i as _};
