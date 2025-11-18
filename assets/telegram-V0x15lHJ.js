@@ -1,0 +1,1 @@
+import{_ as o,V as r}from"./VImg-CT67WfQl.js";import{l as _,h as c}from"./index-DbbwcS8I.js";const e="/media/telegram.png",n={};function s(t,a){return c(),_(r,{src:e})}const i=o(n,[["render",s]]);export{i as _};
